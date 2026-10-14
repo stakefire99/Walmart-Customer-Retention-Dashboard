@@ -55,4 +55,4 @@ customer details · loyalty programme · transactions · churn labels · store l
 
 ## 👩‍💻 Author
 **Lakshita** · MCA (Data Analytics)
-[GitHub](https://github.com/stakefire99) · [LinkedIn](PASTE-YOUR-CORRECT-LINKEDIN-URL-HERE)
+[GitHub](https://github.com/stakefire99) · [LinkedIn](https://www.linkedin.com/in/lakshita-047439224/)
